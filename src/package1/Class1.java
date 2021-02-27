@@ -6,6 +6,9 @@ public class Class1 {
 		
 		System.out.println("Hello world");
 		int numberOfStudents = 71;
+		
+		
+		// i love you man!
 	}
 	
 }
