@@ -9,6 +9,7 @@ public class Class1 {
 		double num =34.5;
 		
 		// i love you man!
+		//Today we have seen commands on Git and GitHub
 	}
 	
 }
