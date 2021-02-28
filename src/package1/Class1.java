@@ -12,6 +12,8 @@ public class Class1 {
 		//Today we have seen commands on Git and GitHub
 		//hoppaaaa
 		int a=0;
+		double d2 =23.02;
+		String st="jhffbzb";
 	}
 	
 }
