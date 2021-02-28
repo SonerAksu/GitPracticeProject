@@ -11,6 +11,7 @@ public class Class1 {
 		// i love you man!
 		//Today we have seen commands on Git and GitHub
 		//hoppaaaa
+		int a=0;
 	}
 	
 }
